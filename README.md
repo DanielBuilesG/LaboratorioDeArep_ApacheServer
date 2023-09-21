@@ -31,12 +31,24 @@ git clone //repo name here
 corremos la clase main y deberiamos obtener la siguiente imagen
 
 
-//foto de la pagina inicial 
+![image](https://github.com/DanielBuilesG/LaboratorioDeArep_ApacheServer/assets/73034258/6f640d3e-f068-4348-a53d-50a93951db5b)
+
 
 
 para buscar diferentes archivos se debe añadir el endpoint /html o /image
 
 deberia mostrar lo siguiente 
+
+![image](https://github.com/DanielBuilesG/LaboratorioDeArep_ApacheServer/assets/73034258/25ab5c4b-7986-43ca-8491-a30088eeb127)
+
+
+
+
+/image
+
+![image](https://github.com/DanielBuilesG/LaboratorioDeArep_ApacheServer/assets/73034258/97eed3a7-ec7e-4abd-a471-3f53ee3f2789)
+
+
 
 
 ## Licencia
