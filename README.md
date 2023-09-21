@@ -1,6 +1,6 @@
 # Apache Server
 
-es un servidor web simple desarrollado en Java utilizando el framework Spring Boot. Este servidor web es capaz de manejar solicitudes HTTP básicas y proporcionar respuestas para endpoints específicos, incluyendo la entrega de archivos HTML y imágenes en formato JPG.
+Es un servidor web simple desarrollado en Java utilizando el framework Spring Boot. Este servidor web es capaz de manejar solicitudes HTTP básicas y proporcionar respuestas para endpoints específicos, incluyendo la entrega de archivos HTML y imágenes en formato JPG.
 
 # Índice
 - [Instalación](#instalación)
