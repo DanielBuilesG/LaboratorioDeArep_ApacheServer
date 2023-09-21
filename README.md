@@ -41,6 +41,9 @@ deberia mostrar lo siguiente
 ![image](https://github.com/DanielBuilesG/LaboratorioDeArep_ApacheServer/assets/73034258/25ab5c4b-7986-43ca-8491-a30088eeb127)
 
 
+la imagen que esta en el codigo es la siguiente
+
+
 
 
 /image
