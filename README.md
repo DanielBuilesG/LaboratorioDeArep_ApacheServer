@@ -41,14 +41,19 @@ deberia mostrar lo siguiente
 ![image](https://github.com/DanielBuilesG/LaboratorioDeArep_ApacheServer/assets/73034258/25ab5c4b-7986-43ca-8491-a30088eeb127)
 
 
-la imagen que esta en el codigo es la siguiente
-
-
-
 
 /image
 
 ![image](https://github.com/DanielBuilesG/LaboratorioDeArep_ApacheServer/assets/73034258/97eed3a7-ec7e-4abd-a471-3f53ee3f2789)
+
+
+
+
+la imagen que esta en el codigo es la siguiente
+
+![image](https://github.com/DanielBuilesG/LaboratorioDeArep_ApacheServer/assets/73034258/d31a59db-3a20-44dc-b1a8-6ebc163a6c04)
+
+
 
 
 
