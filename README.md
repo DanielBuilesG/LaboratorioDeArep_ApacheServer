@@ -1,11 +1,10 @@
-# Título del Proyecto
+# Apache Server
 
-Descripción breve del proyecto.
+es un servidor web simple desarrollado en Java utilizando el framework Spring Boot. Este servidor web es capaz de manejar solicitudes HTTP básicas y proporcionar respuestas para endpoints específicos, incluyendo la entrega de archivos HTML y imágenes en formato JPG.
 
-## Índice
+# Índice
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Contribución](#contribución)
 - [Licencia](#licencia)
 
 ## Estado del Proyecto
@@ -22,7 +21,7 @@ Basta con descargar el repositorio de la siguiente manera
 
 ```
 
-git clone //repo name here
+git clone https://github.com/DanielBuilesG/LaboratorioDeArep_ApacheServer.git
 ```
 
 
@@ -53,6 +52,6 @@ deberia mostrar lo siguiente
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia XYZ](URL de la licencia).
+Este proyecto está bajo la [Licencia MIT](https://opensource.org/license/mit/)
 
 
